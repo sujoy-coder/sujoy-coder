@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **GirlScript Summer Of Code**
 
-- 🌱 I’m currently learning **Express.js, Django REST FrameWork**
+- 🌱 I’m currently learning **Django REST FrameWork**
 
 - 💬 Ask me about **python**
 
