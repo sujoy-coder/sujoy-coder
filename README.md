@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoy-coder" alt="sujoy-coder" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **GirlScript Summer Of Code**
-
-- 🌱 I’m currently learning **Django REST FrameWork**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **python**
 
